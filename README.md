@@ -2,8 +2,8 @@
 Program to solve Word Sum problems such as ROCK + ROLL = MUSIC
 
   ROCK
- +ROLL
- =====
+ \+ROLL
+ \-----
  MUSIC
 
 For instance given the following letter 2 digit associations
@@ -13,8 +13,8 @@ For instance given the following letter 2 digit associations
 The above turns into
 
   5328
- +5344
- =====
+ \+5344
+ \-----
  10672
  
 The rules are that each letter has to be one of 10 digits, 0-9, and no two letters can be the same digit. 
